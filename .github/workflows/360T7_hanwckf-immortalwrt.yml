@@ -22,11 +22,11 @@ on:
 env:
   REPO_URL: https://github.com/hanwckf/immortalwrt-mt798x
   REPO_BRANCH: openwrt-21.02
-  FEEDS_CONF_FILE: h3c-nx30pro/hanwckf-immortalwrt/feeds.conf.default
-  CONFIG_FILE: h3c-nx30pro/hanwckf-immortalwrt/.config
-  MOD_PART1_SH: h3c-nx30pro/hanwckf-immortalwrt/part1.sh
-  MOD_PART2_SH: h3c-nx30pro/hanwckf-immortalwrt/part2.sh
-  MOD_PART3_SH: h3c-nx30pro/hanwckf-immortalwrt/part3.sh
+  FEEDS_CONF_FILE: 360t7/feeds.conf.default
+  CONFIG_FILE: 360t7/.config
+  MOD_PART1_SH: 360t7/part1.sh
+  MOD_PART2_SH: 360t7/part2.sh
+  MOD_PART3_SH: 360t7/part3.sh
   UPLOAD_BIN_DIR: false
   UPLOAD_FIRMWARE: true
   UPLOAD_RELEASE: true
