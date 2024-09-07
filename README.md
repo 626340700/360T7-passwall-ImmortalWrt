@@ -20,23 +20,12 @@ MT7981 OpenWrt Firmware, compile by Github Actions
 
 ### **1.2 Major Modifications | 主要修改**
 
-- **Remove all USB support**  
-  USB interface only has charging function. **Important !**
 
 - **Network Turbo ACC**  
   Base on MTK HNAT, Power by [@hanwckf](https://github.com/hanwckf)
 
-- **Add IPv6 full support**
-
-- **Add UPNP support**
-
-- **Add KMS Server**
-
-- **Add Syncdial & mwan3**  
-  Support multi-wan access and load balancing,suport PPPoE and others.
-
 - **Add ~~Passwall~~**  
-  include xray-core, sing-box.
+  include sing-box.
 
 - **Others**  
   &emsp;
