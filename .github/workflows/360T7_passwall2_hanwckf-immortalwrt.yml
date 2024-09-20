@@ -170,7 +170,7 @@ jobs:
         id: tag
         if: env.UPLOAD_RELEASE == 'true' && !cancelled()
         run: |
-          echo "release_tag=360T7-Hanwckf_Immortalwrt-$(date +"%Y%m%d_%H%M")" >> "$GITHUB_OUTPUT"
+          echo "release_tag=360T7-passwall2-Hanwckf_Immortalwrt-$(date +"%Y%m%d_%H%M")" >> "$GITHUB_OUTPUT"
           touch release.txt
           echo "STATUS=success" >> "$GITHUB_OUTPUT"
 
