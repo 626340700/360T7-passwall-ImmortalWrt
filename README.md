@@ -56,7 +56,7 @@ MT7981 OpenWrt Firmware, compile by Github Actions
 
 ### **2.3 Network Turbo ACC | 网络加速**
 
-1. Open [Web Admin](http://192.168.1.1) (default: 192.168.1.1) in your browser and login (default: `root` `password`).
+1. Open [Web Admin](http://192.168.2.1) (default: 192.168.2.1) in your browser and login (default: `root` `password`).
 2. Open Menu (网络|Network) -> (Turbo ACC Center|Turbo ACC 网络加速).
 3. Selected the `Shortcut-FE flow offloading | Shortcut-FE 流量分载` and `BBR CCA | BBR 拥塞控制算法`.Change `FullCone NAT | 全锥型 NAT`'s Option to `High Performing Mode | 高性能模式`
 4. Click the `(保存&应用|SAVE&APPLY)` button to save.
