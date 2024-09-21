@@ -34,7 +34,7 @@ MT7981 OpenWrt Firmware, compile by Github Actions
 
 ### **2.1 Language | 语言**
 
-1. Open [Web Admin](http://192.168.7.1) (default: 192.168.7.1) in your browser and login (default: `root` `password`).
+1. Open [Web Admin](http://192.168.2.1) (default: 192.168.2.1) in your browser and login (default: `root` `password`).
 2. Open Menu `(系统|System)` -> `(系统|System)`, swith tab `(语言和界面|Language and Style)`
 3. Change the `Language` select's option. (auto=English)
 4. Click the `(保存&应用|SAVE&APPLY)` button to save. Finally,refresh browser.  
@@ -42,7 +42,7 @@ MT7981 OpenWrt Firmware, compile by Github Actions
 
 <!-- ### **2.2 Wireless Power | 无线功率**
 
-1. Open [Web Admin](http://192.168.1.1) (default: 192.168.1.1) in your browser and login (default: `root` `password`).
+1. Open [Web Admin](http://192.168.2.1) (default: 192.168.2.1) in your browser and login (default: `root` `password`).
 2. Open Menu `(系统|System)` -> `(启动项|Startup)`, slide to the bottom.
 3. Add some shell command in `(本地启动脚本|Local Startup Script)`, before `exit 0`
    ```shell
